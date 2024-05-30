@@ -20,11 +20,11 @@ function listNFTs() {
     for (let i = 0; i < nftC.length; i++) {
         const nft = nftC[i];
         console.log(`NFT --> ${i + 1}`);
-        console.log(`  Name: ${nft.name}`);
-        console.log(`  Age: ${nft.age}`);
-        console.log(`  Eye Color: ${nft.eyeColor}`);
-        console.log(`  Shirt Type: ${nft.shirtType}`);
-        console.log(`  Accessory: ${nft.accessory}`);
+        console.log(`Name: ${nft.name}`);
+        console.log(`Age: ${nft.age}`);
+        console.log(`Eye Color: ${nft.eyeColor}`);
+        console.log(`Shirt Type: ${nft.shirtType}`);
+        console.log(`Accessory: ${nft.accessory}`);
         console.log('--------------------------');
     }
 }
