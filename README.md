@@ -1,2 +1,2 @@
-# -Metacrafters-JSProof-Assignment-01
+# Metacrafters-JSProof-Assignment-01
 MintNFT using javascript
